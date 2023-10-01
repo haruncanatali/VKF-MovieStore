@@ -1,0 +1,14 @@
+.idea/.idea.MovieStore/.idea/indexLayout.xml
+MovieStore.Api/bin/Debug/net7.0/AutoMapper.dll
+MovieStore.sln.DotSettings.user
+MovieStore.Api/bin/Debug/net7.0/Azure.Identity.dll
+MovieStore.Api/bin/
+MovieStore.Application/bin/
+MovieStore.Persistence/bin/
+MovieStore.Domain/bin/
+MovieStore.Test/bin/
+MovieStore.Api/obj/
+MovieStore.Application/obj/
+MovieStore.Persistence/obj/
+MovieStore.Domain/obj/
+MovieStore.Test/obj/
